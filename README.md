@@ -23,4 +23,4 @@ multiplier, respectively; and let x and y represent the number of bits in m and 
 
 Verilog+GtkWave
 
-### For PESU University, 2018.
+### For PES University, 2018.
